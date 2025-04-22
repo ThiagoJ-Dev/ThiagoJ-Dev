@@ -45,11 +45,23 @@ Gosto de explorar novas tecnologias, linguagens e boas práticas de desenvolvime
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=ThiagoJ-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJ-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoJ-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJ-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 
