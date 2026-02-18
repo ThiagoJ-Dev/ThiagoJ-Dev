@@ -1,67 +1,99 @@
 <h1 align="center">Thiago Alves</h1>
-<p align="center"><i>Desenvolvedor Back-End em formação | Técnico em Análise e Desenvolvimento de Sistemas</i></p>
+<p align="center">
+  <i>Desenvolvedor Full Stack | .NET | C# | Angular | APIs</i>
+</p>
 
 ---
 
 ## 📝 Sobre mim
 
-Me chamo **Thiago Alves**, tenho 17 anos e atualmente curso o ensino médio integrado ao técnico em **Análise e Desenvolvimento de Sistemas** pelo **SESI/SENAI**.
+Sou **técnico formado em Desenvolvimento de Sistemas pelo SESI/SENAI** e atualmente curso o **ensino superior em Análise e Desenvolvimento de Sistemas**.
 
-Sou um entusiasta da tecnologia com foco em desenvolvimento **Back-End**, apaixonado por resolver problemas com código e criar soluções que realmente fazem a diferença.  
-Gosto de explorar novas tecnologias, linguagens e boas práticas de desenvolvimento.
+Atuo como **desenvolvedor Full Stack**, com forte foco no **ecossistema .NET**, participando do desenvolvimento de **aplicações web completas**, desde a camada de dados até o front-end.
 
-> 🚀 Sempre em busca de evolução técnica e novos desafios!
+Tenho experiência prática na construção de **APIs RESTful**, sistemas web, autenticação e autorização, integrações entre sistemas e aplicações orientadas a boas práticas de arquitetura, organização e escalabilidade.
 
 ---
 
-## 🛠️ Tecnologias que domino ou estou estudando
+## 🧠 Atuação Full Stack
 
-### 🔧 Principais linguagens e frameworks
+### 🔹 Back-End (.NET)
 
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Entity Framework" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+- C#  
+- ASP.NET Core  
+- ASP.NET MVC  
+- Web APIs REST  
+- Entity Framework Core  
+- Dapper  
+- Identity (autenticação e autorização)  
+- JWT  
+- SignalR  
+- MediatR + CQRS  
+- Integração com APIs externas  
+- Publicação de APIs em produção  
 
-<br/>
-<br/>
+**Bancos de dados:**  
+- SQL Server  
+- MySQL  
 
-### 🧰 Outras ferramentas que utilizo
+**Projetos desenvolvidos:**  
+- Sistema de estoque  
+- Sistema de empréstimo (livros e financeiro)  
+- Sistema escolar  
+- Service Desk  
+- APIs corporativas  
 
-<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Visual Studio" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-<img align="left" alt="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="PyCharm" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+---
 
-<br/>
-<br/>
-<br/>
+### 🔹 Front-End
+
+- Angular  
+- Consumo de APIs REST  
+- Autenticação no front-end  
+- Organização de aplicações SPA  
+- Blazor  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 🛠️ Tecnologias
+
+### 🔧 Linguagens e frameworks
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+### 🧰 Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoJ-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJ-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoJ-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJ-Dev&theme=tokyonight&layout=compact&langs_count=8" height="180"/>
 </p>
 
+---
 
+## 🎯 Objetivo Profissional
 
+Atuar como **Desenvolvedor Full Stack Júnior** ou **Back-End Júnior**, contribuindo em projetos reais, colaborando com equipes técnicas e evoluindo continuamente no desenvolvimento de soluções modernas, seguras e escaláveis.
