@@ -87,11 +87,16 @@ Tenho experiência prática na construção de **APIs RESTful**, sistemas web, a
 
 ## 📈 Estatísticas do GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoJ-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJ-Dev&theme=tokyonight&layout=compact&langs_count=8" height="180"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoJ-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThiagoJ-Dev&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
-
 ---
 
 ## 🎯 Objetivo Profissional
